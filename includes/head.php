@@ -2,7 +2,7 @@
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
     <title>
-        Pizzan - Fast Food & Restaurant HTML Template - Home Fast Food
+        Baja diablo
     </title>
     <meta name="author" content="Themeholy" />
     <meta name="description" content="Pizzan - Fast Food & Restaurant HTML Template" />

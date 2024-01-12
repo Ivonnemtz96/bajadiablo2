@@ -55,7 +55,7 @@
               -webkit-background-clip: border-box;
             " class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer"
                 data-ls="offsetyin:-300; durationin:1200; delayin:200; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-200; durationout:400; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent;">
-                Special Fast food restaurant</ls-layer>
+                El mejor ambiente</ls-layer>
             <h1 style="
               text-align: left;
               text-decoration: none;
@@ -73,7 +73,7 @@
               white-space: normal;
             " class="ls-l ls-hide-phone ls-text-layer"
                 data-ls="offsetyin:-300; durationin:1200; delayin:200; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-200; durationout:400; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent;">
-                Best Quality
+                ¡Banda
             </h1>
             <h1 style="
               text-align: left;
@@ -92,7 +92,7 @@
               white-space: normal;
             " class="ls-l hero-title ls-hide-phone ls-text-layer"
                 data-ls="offsetyin:-300; durationin:1200; delayin:400; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-200; durationout:400; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent;">
-                Fast Food
+                en vivo!
             </h1>
             <a style="" class="ls-l ls-hide-tablet ls-hide-phone" href="shop.html" target="_self"
                 data-ls="offsetyin:-300; durationin:1200; delayin:500; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-120; durationout:800; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent; hover:true; hoveropacity:1; hoverbgcolor:#ffffff; hovercolor:#ff0600;">
@@ -112,7 +112,7 @@
                 font-weight: 600;
                 border-radius: 4px 4px 4px 4px;
                 background-color: #ff0600;
-              " class="ls-ib-icon ls-button-layer">Explore menu<i class="fa fa-arrow-right"
+              " class="ls-ib-icon ls-button-layer">Ver menú<i class="fa fa-arrow-right"
                         style="margin-left: 0.5em; font-size: 1em"></i></ls-layer>
             </a>
             <ls-layer style="
@@ -135,8 +135,8 @@
               -webkit-background-clip: border-box;
             " class="ls-l ls-hide-desktop ls-text-layer"
                 data-ls="offsetyin:-300; durationin:1200; delayin:200; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-200; durationout:400; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent;">
-                Special Fast food restaurant</ls-layer><a style="" class="ls-l ls-hide-desktop" href="shop.html"
-                target="_self"
+                No te quedes con el antojo</ls-layer>
+            <a style="" class="ls-l ls-hide-desktop" href="shop.html" target="_self"
                 data-ls="offsetxin:500; delayin:200; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-120; durationout:800; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent; hover:true; hoveropacity:1; hoverbgcolor:#ffffff; hovercolor:#eb0029;">
                 <ls-layer style="
                 font-size: 32px;
@@ -154,7 +154,7 @@
                 background-color: #eb0029;
                 border-radius: 10px 10px 10px 10px;
                 width: 370px;
-              " class="ls-ib-icon ls-button-layer">Explore menu<i class="fa fa-arrow-right"
+              " class="ls-ib-icon ls-button-layer">Ver menú<i class="fa fa-arrow-right"
                         style="margin-left: 0.5em; font-size: 1em"></i></ls-layer>
             </a>
         </div>
@@ -183,7 +183,7 @@
               -webkit-background-clip: border-box;
             " class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer"
                 data-ls="offsetyin:-300; durationin:1200; delayin:200; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-200; durationout:400; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent;">
-                Special Fast food restaurant</ls-layer>
+                No te quedes con el antojo</ls-layer>
             <h1 style="
               text-align: left;
               text-decoration: none;
@@ -201,7 +201,7 @@
               white-space: normal;
             " class="ls-l ls-hide-phone ls-text-layer"
                 data-ls="offsetyin:-300; durationin:1200; delayin:200; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-200; durationout:400; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent;">
-                Good Platter
+                Las mejores
             </h1>
             <h1 style="
               text-align: left;
@@ -220,7 +220,7 @@
               white-space: normal;
             " class="ls-l hero-title ls-hide-phone ls-text-layer"
                 data-ls="offsetyin:-300; durationin:1200; delayin:400; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-200; durationout:400; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent;">
-                Low cost
+                Micheladas
             </h1>
             <a style="" class="ls-l ls-hide-tablet ls-hide-phone" href="shop.html" target="_self"
                 data-ls="offsetyin:-300; durationin:1200; delayin:500; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-120; durationout:800; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent; hover:true; hoveropacity:1; hoverbgcolor:#ffffff; hovercolor:#ff0600;">
@@ -240,7 +240,7 @@
                 font-weight: 600;
                 border-radius: 4px 4px 4px 4px;
                 background-color: #ff0600;
-              " class="ls-ib-icon ls-button-layer">Explore menu<i class="fa fa-arrow-right"
+              " class="ls-ib-icon ls-button-layer">Ver galería<i class="fa fa-arrow-right"
                         style="margin-left: 0.5em; font-size: 1em"></i></ls-layer>
             </a>
             <ls-layer style="
@@ -263,8 +263,8 @@
               -webkit-background-clip: border-box;
             " class="ls-l ls-hide-desktop ls-text-layer"
                 data-ls="offsetyin:-300; durationin:1200; delayin:200; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-200; durationout:400; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent;">
-                Special Fast food restaurant</ls-layer><a style="" class="ls-l ls-hide-desktop" href="shop.html"
-                target="_self"
+                No te quedes con el antojo</ls-layer>
+            <a style="" class="ls-l ls-hide-desktop" href="shop.html" target="_self"
                 data-ls="offsetxin:500; delayin:200; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-120; durationout:800; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent; hover:true; hoveropacity:1; hoverbgcolor:#ffffff; hovercolor:#eb0029;">
                 <ls-layer style="
                 font-size: 32px;
@@ -282,7 +282,7 @@
                 background-color: #eb0029;
                 border-radius: 10px 10px 10px 10px;
                 width: 370px;
-              " class="ls-ib-icon ls-button-layer">Explore menu<i class="fa fa-arrow-right"
+              " class="ls-ib-icon ls-button-layer">Ver galería<i class="fa fa-arrow-right"
                         style="margin-left: 0.5em; font-size: 1em"></i></ls-layer>
             </a>
         </div>
@@ -311,7 +311,7 @@
               -webkit-background-clip: border-box;
             " class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer"
                 data-ls="offsetyin:-300; durationin:1200; delayin:200; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-200; durationout:400; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent;">
-                Special Fast food restaurant</ls-layer>
+                ¿Ya conoces nuestra ubicación?</ls-layer>
             <h1 style="
               text-align: left;
               text-decoration: none;
@@ -329,7 +329,7 @@
               white-space: normal;
             " class="ls-l ls-hide-phone ls-text-layer"
                 data-ls="offsetyin:-300; durationin:1200; delayin:200; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-200; durationout:400; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent;">
-                chicken fry
+                San José &
             </h1>
             <h1 style="
               text-align: left;
@@ -348,7 +348,7 @@
               white-space: normal;
             " class="ls-l hero-title ls-hide-phone ls-text-layer"
                 data-ls="offsetyin:-300; durationin:1200; delayin:400; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-200; durationout:400; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent;">
-                with sauce
+                San Lucas
             </h1>
             <a style="" class="ls-l ls-hide-tablet ls-hide-phone" href="shop.html" target="_self"
                 data-ls="offsetyin:-300; durationin:1200; delayin:500; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-120; durationout:800; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent; hover:true; hoveropacity:1; hoverbgcolor:#ffffff; hovercolor:#ff0600;">
@@ -368,7 +368,7 @@
                 font-weight: 600;
                 border-radius: 4px 4px 4px 4px;
                 background-color: #ff0600;
-              " class="ls-ib-icon ls-button-layer">Explore menu<i class="fa fa-arrow-right"
+              " class="ls-ib-icon ls-button-layer">Ver ubicación<i class="fa fa-arrow-right"
                         style="margin-left: 0.5em; font-size: 1em"></i></ls-layer>
             </a>
             <ls-layer style="
@@ -391,7 +391,7 @@
               -webkit-background-clip: border-box;
             " class="ls-l ls-hide-desktop ls-text-layer"
                 data-ls="offsetyin:-300; durationin:1200; delayin:200; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-200; durationout:400; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent;">
-                Special Fast food restaurant</ls-layer><a style="" class="ls-l ls-hide-desktop" href="shop.html"
+                ¿Ya conoces nuestra ubicación?</ls-layer><a style="" class="ls-l ls-hide-desktop" href="shop.html"
                 target="_self"
                 data-ls="offsetxin:500; delayin:200; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-120; durationout:800; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent; hover:true; hoveropacity:1; hoverbgcolor:#ffffff; hovercolor:#eb0029;">
                 <ls-layer style="
@@ -410,7 +410,7 @@
                 background-color: #eb0029;
                 border-radius: 10px 10px 10px 10px;
                 width: 370px;
-              " class="ls-ib-icon ls-button-layer">Explore menu<i class="fa fa-arrow-right"
+              " class="ls-ib-icon ls-button-layer">Ver ubicación<i class="fa fa-arrow-right"
                         style="margin-left: 0.5em; font-size: 1em"></i></ls-layer>
             </a>
         </div>
@@ -469,7 +469,7 @@
               white-space: normal;
             " class="ls-l ls-text-layer"
                 data-ls="offsetyin:-300; durationin:1200; delayin:200; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-200; durationout:400; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent;">
-                Best Quality
+                ¡Banda
             </h1>
             <ls-layer style="
               font-size: 22px;
@@ -492,7 +492,7 @@
               -webkit-background-clip: border-box;
             " class="ls-l ls-text-layer"
                 data-ls="offsetyin:-300; durationin:1200; delayin:200; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-200; durationout:400; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent;">
-                Special Fast food restaurant</ls-layer>
+                El mejor ambiente</ls-layer>
             <h1 style="
               text-align: left;
               text-decoration: none;
@@ -510,7 +510,7 @@
               white-space: normal;
             " class="ls-l hero-title ls-text-layer"
                 data-ls="offsetyin:-300; durationin:1200; delayin:400; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-200; durationout:400; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent;">
-                Fast Food
+                en vivo!
             </h1>
             <a style="" class="ls-l" href="shop.html" target="_self"
                 data-ls="offsetyin:-300; durationin:1200; delayin:500; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-120; durationout:800; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent; hover:true; hoveropacity:1; hoverbgcolor:#ffffff; hovercolor:#ff0600;">
@@ -530,7 +530,7 @@
                 font-weight: 600;
                 border-radius: 4px 4px 4px 4px;
                 background-color: #ff0600;
-              " class="ls-ib-icon ls-button-layer">Explore menu<i class="fa fa-arrow-right"
+              " class="ls-ib-icon ls-button-layer">Ver menú<i class="fa fa-arrow-right"
                         style="margin-left: 0.5em; font-size: 1em"></i></ls-layer>
             </a>
         </div>
@@ -555,7 +555,7 @@
               white-space: normal;
             " class="ls-l ls-text-layer"
                 data-ls="offsetyin:-300; durationin:1200; delayin:200; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-200; durationout:400; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent;">
-                GOOD PLATTER
+                Las mejores
             </h1>
             <ls-layer style="
               font-size: 22px;
@@ -578,7 +578,7 @@
               -webkit-background-clip: border-box;
             " class="ls-l ls-text-layer"
                 data-ls="offsetyin:-300; durationin:1200; delayin:200; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-200; durationout:400; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent;">
-                Special Fast food restaurant</ls-layer>
+                No te quedes con el antojo</ls-layer>
             <h1 style="
               text-align: left;
               text-decoration: none;
@@ -596,7 +596,7 @@
               white-space: normal;
             " class="ls-l hero-title ls-text-layer"
                 data-ls="offsetyin:-300; durationin:1200; delayin:400; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-200; durationout:400; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent;">
-                LOW COST
+                Micheladas
             </h1>
             <a style="" class="ls-l" href="shop.html" target="_self"
                 data-ls="offsetyin:-300; durationin:1200; delayin:500; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-120; durationout:800; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent; hover:true; hoveropacity:1; hoverbgcolor:#ffffff; hovercolor:#ff0600;">
@@ -616,7 +616,7 @@
                 font-weight: 600;
                 border-radius: 4px 4px 4px 4px;
                 background-color: #ff0600;
-              " class="ls-ib-icon ls-button-layer">Explore menu<i class="fa fa-arrow-right"
+              " class="ls-ib-icon ls-button-layer">Ver galería<i class="fa fa-arrow-right"
                         style="margin-left: 0.5em; font-size: 1em"></i></ls-layer>
             </a>
         </div>
@@ -641,7 +641,7 @@
               white-space: normal;
             " class="ls-l ls-text-layer"
                 data-ls="offsetyin:-300; durationin:1200; delayin:200; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-200; durationout:400; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent;">
-                CHICKEN FRY
+                San José &
             </h1>
             <ls-layer style="
               font-size: 22px;
@@ -664,7 +664,7 @@
               -webkit-background-clip: border-box;
             " class="ls-l ls-text-layer"
                 data-ls="offsetyin:-300; durationin:1200; delayin:200; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-200; durationout:400; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent;">
-                Special Fast food restaurant</ls-layer>
+                ¿Ya conoces nuestra ubicación?</ls-layer>
             <h1 style="
               text-align: left;
               text-decoration: none;
@@ -682,7 +682,7 @@
               white-space: normal;
             " class="ls-l hero-title ls-text-layer"
                 data-ls="offsetyin:-300; durationin:1200; delayin:400; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-200; durationout:400; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent;">
-                WITH SAUCE
+                San Lucas
             </h1>
             <a style="" class="ls-l" href="shop.html" target="_self"
                 data-ls="offsetyin:-300; durationin:1200; delayin:500; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-120; durationout:800; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent; hover:true; hoveropacity:1; hoverbgcolor:#ffffff; hovercolor:#ff0600;">
@@ -702,23 +702,19 @@
                 font-weight: 600;
                 border-radius: 4px 4px 4px 4px;
                 background-color: #ff0600;
-              " class="ls-ib-icon ls-button-layer">Explore menu<i class="fa fa-arrow-right"
+              " class="ls-ib-icon ls-button-layer">Ver ubicación<i class="fa fa-arrow-right"
                         style="margin-left: 0.5em; font-size: 1em"></i></ls-layer>
             </a>
         </div>
     </div>
 </div>
 <div class="space">
-    <div class="shape-mockup jump d-none d-lg-block" data-top="15%" data-left="5%">
-        <img src="assets/img/update_2/shape/tomato_5.png" alt="shape" />
-    </div>
-    <div class="shape-mockup jump-reverse d-none d-lg-block" data-top="5%" data-right="2%">
-        <img src="assets/img/update_2/shape/bucket_1.png" alt="shape" />
-    </div>
+    
+   
     <div class="container">
         <div class="title-area text-center">
-            <span class="sub-title">Best food for family</span>
-            <h2 class="sec-title">Choose your best Category</h2>
+            <span class="sub-title">El mejor ambiente para disfrutar</span>
+            <h2 class="sec-title">¿Ya probaste lo bueno?</h2>
         </div>
         <div class="row th-carousel" data-slide-show="6" data-ml-slide-show="5" data-lg-slide-show="4"
             data-md-slide-show="3" data-sm-slide-show="2" data-xs-slide-show="2">
@@ -728,7 +724,7 @@
                         <img src="assets/img/update_2/normal/category_6_1.png" alt="Image" />
                     </div>
                     <h3 class="category-border_title">
-                        <a href="shop.html">Beef Barger</a>
+                        <a href="shop.html">Micheladas</a>
                     </h3>
                     <div class="fire">
                         <img src="assets/img/update_2/shape/fire_2.png" alt="shape" />
@@ -741,7 +737,7 @@
                         <img src="assets/img/update_2/normal/category_6_2.png" alt="Image" />
                     </div>
                     <h3 class="category-border_title">
-                        <a href="shop.html">Vegetable</a>
+                        <a href="shop.html">Música en vivo</a>
                     </h3>
                     <div class="fire">
                         <img src="assets/img/update_2/shape/fire_2.png" alt="shape" />
@@ -754,7 +750,7 @@
                         <img src="assets/img/update_2/normal/category_6_3.png" alt="Image" />
                     </div>
                     <h3 class="category-border_title">
-                        <a href="shop.html">Tandoori</a>
+                        <a href="shop.html">Buen ambiente</a>
                     </h3>
                     <div class="fire">
                         <img src="assets/img/update_2/shape/fire_2.png" alt="shape" />
@@ -767,7 +763,7 @@
                         <img src="assets/img/update_2/normal/category_6_4.png" alt="Image" />
                     </div>
                     <h3 class="category-border_title">
-                        <a href="shop.html">Sea Foods</a>
+                        <a href="shop.html">Alitas</a>
                     </h3>
                     <div class="fire">
                         <img src="assets/img/update_2/shape/fire_2.png" alt="shape" />
@@ -780,33 +776,7 @@
                         <img src="assets/img/update_2/normal/category_6_5.png" alt="Image" />
                     </div>
                     <h3 class="category-border_title">
-                        <a href="shop.html">Barbecue</a>
-                    </h3>
-                    <div class="fire">
-                        <img src="assets/img/update_2/shape/fire_2.png" alt="shape" />
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-2 col-lg-3 col-md-3 col-sm2">
-                <div class="category-border">
-                    <div class="category-border_img">
-                        <img src="assets/img/update_2/normal/category_6_6.png" alt="Image" />
-                    </div>
-                    <h3 class="category-border_title">
-                        <a href="shop.html">Fast Foods</a>
-                    </h3>
-                    <div class="fire">
-                        <img src="assets/img/update_2/shape/fire_2.png" alt="shape" />
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-2 col-lg-3 col-md-3 col-sm2">
-                <div class="category-border">
-                    <div class="category-border_img">
-                        <img src="assets/img/update_2/normal/category_6_7.png" alt="Image" />
-                    </div>
-                    <h3 class="category-border_title">
-                        <a href="shop.html">Fast Foods</a>
+                        <a href="shop.html">Chamoy artesanal</a>
                     </h3>
                     <div class="fire">
                         <img src="assets/img/update_2/shape/fire_2.png" alt="shape" />
@@ -817,11 +787,8 @@
     </div>
 </div>
 <div class="about-sec overflow-hidden space-bottom">
-    <div class="shape-mockup moving d-none d-sm-block" data-top="3%" data-right="3%">
-        <img src="assets/img/update_2/shape/tree_2.png" alt="shape" />
-    </div>
     <div class="shape-mockup jump d-none d-lg-block" data-top="33%" data-left="5%">
-        <img src="assets/img/update_2/shape/shape_5.png" alt="shape" />
+        <!-- <img src="assets/img/update_2/shape/shape_5.png" alt="shape" /> -->
     </div>
     <div class="container">
         <div class="row">
@@ -830,66 +797,45 @@
                     <div class="img1">
                         <img src="assets/img/update_2/normal/about_8_1.png" alt="About" />
                     </div>
-                    <div class="img2 jump">
-                        <img src="assets/img/update_2/shape/red_chili_2.png" alt="About" />
-                    </div>
-                    <div class="about-box">
-                        <div class="about-box_number">
-                            <span class="counter-number">25</span>+
-                        </div>
-                        <p class="about-box_text">Years Experience<br />Our Company</p>
-                        <div class="about-box_avaters">
-                            <img src="assets/img/update_2/normal/about_7_3.png" alt="About" />
-                        </div>
-                    </div>
+
+
                 </div>
             </div>
             <div class="col-xl-6 mt-40 mt-xl-0">
                 <div class="ps-xxl-5 ms-xl-2">
                     <div class="title-area mb-30 text-center text-xl-start">
-                        <span class="sub-title">About Company</span>
-                        <h2 class="sec-title">We always Tring Quality Healthy Foods</h2>
+                        <span class="sub-title">Nosotros</span>
+                        <h2 class="sec-title">Baja Diablo</h2>
                     </div>
                     <p class="mt-n2 mb-25 text-center text-xl-start">
-                        Implies that the restaurant prioritizes the delivery of high
-                        quality And delicious meals to its customers. It emphasizes the
+                        Desde lo más clásico, hasta lo más atrevido.
+                        Prueba nuestro chamoy hecho artesanalmente por nosotros, salsas únicas que nos caracterizan y
+                        combinaciones que puedes encontrar sólo aquí.
+                        Este es el lugar perfecto para buenos momentos, buenos drinks y buenas amistades.
                     </p>
-                    <div class="about-award">
-                        <div class="about-award_icon">
-                            <img src="assets/img/update_2/icon/about-award.svg" alt="Icon" />
-                        </div>
-                        <div class="media-body">
-                            <h3 class="about-award_title">Awards wining</h3>
-                            <p class="about-award_text">
-                                Highlighting the exceptional qualities and Accomplishments
-                                that set them apart
-                            </p>
-                        </div>
-                    </div>
+                    <p>
+                        En Baja Diablo, no solo nos enfocamos en crear las mejores micheladas, sino también en ofrecer
+                        los ingredientes más auténticos y de calidad para que nuestras bebidas sean únicas. Nuestro
+                        chamoy es preparado en pequeñas cantidades, cuidadosamente. Si eres un amante del sabor
+                        auténtico y de la calidad, no puedes perderte nuestras micheladas con chamoy artesanal, una
+                        experiencia única que solo encontrarás en Baja Diablo.
+                    </p>
                     <div class="checklist style4 one-column mb-25">
                         <ul>
-                            <li>We’re Experience In serve Food Restaurant</li>
-                            <li>Recipe Management and Menu Planning</li>
+                            <li>Chamoy hecho en casa</li>
+                            <li>Las mejores micheladas</li>
                         </ul>
                     </div>
                     <div class="btn-group mt-35 justify-content-center justify-content-xl-start">
-                        <a href="about.html" class="th-btn rounded-2">ABOUT MORE<i
+                        <a href="about.html" class="th-btn rounded-2">Ver menú<i
                                 class="fa-solid fa-arrow-right ms-2"></i></a>
-                        <div class="about-profile">
-                            <div class="about-avater">
-                                <img src="assets/img/update_2/shape/about-thumb_1.png" alt="about" />
-                            </div>
-                            <div class="media-body">
-                                <h6 class="title">Ronald Richards</h6>
-                                <span class="desig">Founder CEO</span>
-                            </div>
-                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </div>
+
 <section class="bg-top-center position-relative" id="productMenu" data-bg-src="assets/img/update_2/bg/menu_bg_6.jpg">
     <div class="container">
         <div class="row space justify-content-center">
@@ -1058,17 +1004,12 @@
         </div>
     </div>
 </section>
+
 <section class="space">
-    <div class="shape-mockup moving d-none d-lg-block" data-top="10%" data-left="8%">
-        <img src="assets/img/update_2/shape/cherry_1.png" alt="shape" />
-    </div>
-    <div class="shape-mockup jump d-none d-lg-block" data-top="8%" data-right="2%">
-        <img src="assets/img/update_2/shape/red_chili_2.png" alt="shape" />
-    </div>
     <div class="container">
         <div class="title-area text-center">
-            <span class="sub-title">Why Choose Us</span>
-            <h2 class="sec-title">Why People choose Pizzan</h2>
+            <span class="sub-title">Razones para visitarnos</span>
+            <h2 class="sec-title">El Arte de la Michelada</h2>
         </div>
         <div class="row justify-content-center align-items-center">
             <div class="col-xl-4 col-md-6">
@@ -1077,10 +1018,9 @@
                         <img src="assets/img/update_2/icon/why_list_1.svg" alt="icon" />
                     </div>
                     <div class="media-body">
-                        <h3 class="box-title">Menu for every taste</h3>
+                        <h3 class="box-title">Música en vivo</h3>
                         <p class="why-list_text">
-                            Praesent consequat maximus Maecenas semper sapien mi, nec
-                            malesuada ipsum euismod mattis. Praesent in
+                            No puede faltar la música para disfrutar de una buena michelada.
                         </p>
                     </div>
                 </div>
@@ -1089,10 +1029,9 @@
                         <img src="assets/img/update_2/icon/why_list_2.svg" alt="icon" />
                     </div>
                     <div class="media-body">
-                        <h3 class="box-title">Fresh ingredients</h3>
+                        <h3 class="box-title">Chamoy artesanal</h3>
                         <p class="why-list_text">
-                            Praesent consequat maximus Maecenas semper sapien mi, nec
-                            malesuada ipsum euismod mattis. Praesent in
+                            Ven a disfrutas de las mejores micheladas con nuestro chamoy artesanal.
                         </p>
                     </div>
                 </div>
@@ -1108,10 +1047,9 @@
                         <img src="assets/img/update_2/icon/why_list_3.svg" alt="icon" />
                     </div>
                     <div class="media-body">
-                        <h3 class="box-title">Reasonable Cost</h3>
+                        <h3 class="box-title">Exquisita comida</h3>
                         <p class="why-list_text">
-                            Praesent consequat maximus Maecenas semper sapien mi, nec
-                            malesuada ipsum euismod mattis. Praesent in
+                            ¿Vienes a disfrutar?, No puedes irte sin probar nuestras alitas.
                         </p>
                     </div>
                 </div>
@@ -1120,10 +1058,9 @@
                         <img src="assets/img/update_2/icon/why_list_4.svg" alt="icon" />
                     </div>
                     <div class="media-body">
-                        <h3 class="box-title">Advanced Security</h3>
+                        <h3 class="box-title">Estamos cerca de ti</h3>
                         <p class="why-list_text">
-                            Praesent consequat maximus Maecenas semper sapien mi, nec
-                            malesuada ipsum euismod mattis. Praesent in
+                            San José del Cabo o Cabo San Lucas, tenemos el mejor ambiente y las mejores Micheladas.
                         </p>
                     </div>
                 </div>
@@ -1136,8 +1073,8 @@
         <div class="row justify-content-center justify-content-lg-between align-items-end">
             <div class="col-lg-7 mb-n2 mb-lg-0">
                 <div class="title-area text-center text-lg-start">
-                    <span class="sub-title">Photo Gallery</span>
-                    <h2 class="sec-title">Our Latest Photos Gallery</h2>
+                    <span class="sub-title"> Cuando la Vida te Da Limones, Haz Michelada Plebe</span>
+                    <h2 class="sec-title">Galería</h2>
                 </div>
             </div>
             <div class="col-auto">
@@ -1224,9 +1161,6 @@
     </div>
 </section>
 <section class="space bg-smoke2" id="testiSec" data-bg-src="assets/img/update_2/bg/testi_bg_4.png">
-    <div class="shape-mockup jump d-none d-xl-block" data-top="40%" data-left="5%">
-        <img src="assets/img/update_2/shape/french_fry.png" alt="shape" />
-    </div>
     <div class="shape-mockup moving d-none d-xl-block" data-bottom="10%" data-right="4%">
         <img src="assets/img/update_2/shape/tomato_6.png" alt="shape" />
     </div>
@@ -1235,13 +1169,9 @@
             <div class="col-xl-4 text-center text-xl-start">
                 <div class="pe-xxl-5">
                     <div class="title-area mb-40">
-                        <span class="sub-title">Customer Feedback</span>
-                        <h2 class="sec-title">What customers Say About Us</h2>
+                        <span class="sub-title">¿Qué dicen nuestros clientes?</span>
+                        <h2 class="sec-title">Opiniones</h2>
                     </div>
-                    <p class="mt-n2 mb-25">
-                        Convallis libero dignissim, pulvinar sem. Class aptent taciti
-                        sociosqu ad litora torquent per Conubia nostra,
-                    </p>
                 </div>
                 <div class="icon-box">
                     <button data-slick-prev="#testiSlide3" class="slick-arrow default">
@@ -1275,14 +1205,12 @@
                                             class="fa-sharp fa-solid fa-star"></i><i
                                             class="fa-sharp fa-solid fa-star"></i>
                                     </div>
-                                    <h3 class="testi-block_name">Rayan Kook</h3>
-                                    <span class="testi-block_desig">NYC, USA</span>
+                                    <h3 class="testi-block_name"><a target="_blank"
+                                            href="https://www.facebook.com/karaokeshow.cabo">Ksmusic Cabo</a></h3>
                                 </div>
                             </div>
                             <p class="testi-block_text">
-                                Pellentesque maximus velit ligula, amet efficitur neque
-                                condimentum eu. et odio elementum, sollicitudin Ipsum quis,
-                                rutrum sapien. Aenean in posuere elit, sed Dignissim justo.
+                                Buen ambiente y buena atención
                             </p>
                         </div>
                     </div>
@@ -1306,14 +1234,13 @@
                                             class="fa-sharp fa-solid fa-star"></i><i
                                             class="fa-sharp fa-solid fa-star"></i>
                                     </div>
-                                    <h3 class="testi-block_name">Michel Clark</h3>
-                                    <span class="testi-block_desig">DYM, USA</span>
+                                    <h3 class="testi-block_name">Yamila Velasquez</h3>
                                 </div>
                             </div>
                             <p class="testi-block_text">
-                                Pellentesque maximus velit ligula, amet efficitur neque
-                                condimentum eu. et odio elementum, sollicitudin Ipsum quis,
-                                rutrum sapien. Aenean in posuere elit, sed Dignissim justo.
+                                Excelentes micheladas, las alitas, los boneless, patitas fritas. <br>
+                                Muy linda atención y rapidez. <br>
+                                Very Good!
                             </p>
                         </div>
                     </div>
@@ -1337,197 +1264,17 @@
                                             class="fa-sharp fa-solid fa-star"></i><i
                                             class="fa-sharp fa-solid fa-star"></i>
                                     </div>
-                                    <h3 class="testi-block_name">Rosse Mons</h3>
-                                    <span class="testi-block_desig">DO, USA</span>
+                                    <h3 class="testi-block_name">Alejandra Mac Gregor</h3>
                                 </div>
                             </div>
                             <p class="testi-block_text">
-                                Pellentesque maximus velit ligula, amet efficitur neque
-                                condimentum eu. et odio elementum, sollicitudin Ipsum quis,
-                                rutrum sapien. Aenean in posuere elit, sed Dignissim justo.
+                                Nice place to go to eat and have a delicious michelada! Very attentive, I would
+                                definitely return. ✨
                             </p>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-    </div>
-</section>
-<div class="overflow-hidden space-top">
-    <div class="container">
-        <p class="brand-title">
-            <span class="text">Global 5K+ Happy Sponsors With us</span>
-        </p>
-        <div class="row th-carousel" id="brandSlide1" data-slide-show="6" data-lg-slide-show="5" data-md-slide-show="4"
-            data-sm-slide-show="3" data-xs-slide-show="2">
-            <div class="col-auto">
-                <div class="brand-box">
-                    <img class="original" src="assets/img/update_2/brand/brand_2_1.svg" alt="Brand Logo" />
-                    <img class="gray" src="assets/img/update_2/brand/brand_2_1.svg" alt="Brand Logo" />
-                </div>
-            </div>
-            <div class="col-auto">
-                <div class="brand-box">
-                    <img class="original" src="assets/img/update_2/brand/brand_2_2.svg" alt="Brand Logo" />
-                    <img class="gray" src="assets/img/update_2/brand/brand_2_2.svg" alt="Brand Logo" />
-                </div>
-            </div>
-            <div class="col-auto">
-                <div class="brand-box">
-                    <img class="original" src="assets/img/update_2/brand/brand_2_3.svg" alt="Brand Logo" />
-                    <img class="gray" src="assets/img/update_2/brand/brand_2_3.svg" alt="Brand Logo" />
-                </div>
-            </div>
-            <div class="col-auto">
-                <div class="brand-box">
-                    <img class="original" src="assets/img/update_2/brand/brand_2_4.svg" alt="Brand Logo" />
-                    <img class="gray" src="assets/img/update_2/brand/brand_2_4.svg" alt="Brand Logo" />
-                </div>
-            </div>
-            <div class="col-auto">
-                <div class="brand-box">
-                    <img class="original" src="assets/img/update_2/brand/brand_2_5.svg" alt="Brand Logo" />
-                    <img class="gray" src="assets/img/update_2/brand/brand_2_5.svg" alt="Brand Logo" />
-                </div>
-            </div>
-            <div class="col-auto">
-                <div class="brand-box">
-                    <img class="original" src="assets/img/update_2/brand/brand_2_6.svg" alt="Brand Logo" />
-                    <img class="gray" src="assets/img/update_2/brand/brand_2_6.svg" alt="Brand Logo" />
-                </div>
-            </div>
-            <div class="col-auto">
-                <div class="brand-box">
-                    <img class="original" src="assets/img/update_2/brand/brand_2_7.svg" alt="Brand Logo" />
-                    <img class="gray" src="assets/img/update_2/brand/brand_2_7.svg" alt="Brand Logo" />
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<section class="space">
-    <div class="shape-mockup jump-reverse d-none d-lg-block" data-top="6%" data-left="5%">
-        <img src="assets/img/update_2/shape/red_chili_2.png" alt="shape" />
-    </div>
-    <div class="shape-mockup jump d-none d-lg-block" data-top="35%" data-right="5%">
-        <img src="assets/img/update_2/shape/tomato_7.png" alt="shape" />
-    </div>
-    <div class="container">
-        <div class="title-area text-center">
-            <span class="sub-title">Blog & News</span>
-            <h2 class="sec-title">Get Update Our Foods</h2>
-        </div>
-        <div class="row slider-shadow th-carousel" data-slide-show="3" data-lg-slide-show="2" data-md-slide-show="2"
-            data-sm-slide-show="1" data-arrows="true">
-            <div class="col-md-6 col-xl-4">
-                <div class="blog-list">
-                    <div class="blog-img">
-                        <img src="assets/img/update_2/blog/blog_3_1.jpg" alt="blog image" />
-                    </div>
-                    <div class="blog-content">
-                        <div class="blog-meta">
-                            <a href="blog.html"><i class="fa-light fa-calendar-days"></i>15 July, 2023</a>
-                            <a href="blog.html"><i class="fa-regular fa-comments"></i>3 Comments</a>
-                        </div>
-                        <h3 class="box-title blog-title">
-                            <a href="blog-details.html">10 Reasons To Do A Digital Detox Challenge</a>
-                        </h3>
-                        <p class="blog-text">
-                            Statement underscores the value of thinking Outside the box
-                            and pursuing visionary
-                        </p>
-                        <a href="blog-details.html" class="th-btn rounded-2">Read More<i
-                                class="fa-solid fa-arrow-up-right ms-2"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-xl-4">
-                <div class="blog-list">
-                    <div class="blog-img">
-                        <img src="assets/img/update_2/blog/blog_3_2.jpg" alt="blog image" />
-                    </div>
-                    <div class="blog-content">
-                        <div class="blog-meta">
-                            <a href="blog.html"><i class="fa-light fa-calendar-days"></i>16 July, 2023</a>
-                            <a href="blog.html"><i class="fa-regular fa-comments"></i>3 Comments</a>
-                        </div>
-                        <h3 class="box-title blog-title">
-                            <a href="blog-details.html">New Restaurant Town Our Ple Award Contract</a>
-                        </h3>
-                        <p class="blog-text">
-                            Statement underscores the value of thinking Outside the box
-                            and pursuing visionary
-                        </p>
-                        <a href="blog-details.html" class="th-btn rounded-2">Read More<i
-                                class="fa-solid fa-arrow-up-right ms-2"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-xl-4">
-                <div class="blog-list">
-                    <div class="blog-img">
-                        <img src="assets/img/update_2/blog/blog_3_3.jpg" alt="blog image" />
-                    </div>
-                    <div class="blog-content">
-                        <div class="blog-meta">
-                            <a href="blog.html"><i class="fa-light fa-calendar-days"></i>17 July, 2023</a>
-                            <a href="blog.html"><i class="fa-regular fa-comments"></i>3 Comments</a>
-                        </div>
-                        <h3 class="box-title blog-title">
-                            <a href="blog-details.html">Innovative Hot Chessy raw Pasta Make Creator.</a>
-                        </h3>
-                        <p class="blog-text">
-                            Statement underscores the value of thinking Outside the box
-                            and pursuing visionary
-                        </p>
-                        <a href="blog-details.html" class="th-btn rounded-2">Read More<i
-                                class="fa-solid fa-arrow-up-right ms-2"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-xl-4">
-                <div class="blog-list">
-                    <div class="blog-img">
-                        <img src="assets/img/update_2/blog/blog_3_4.jpg" alt="blog image" />
-                    </div>
-                    <div class="blog-content">
-                        <div class="blog-meta">
-                            <a href="blog.html"><i class="fa-light fa-calendar-days"></i>21 July, 2023</a>
-                            <a href="blog.html"><i class="fa-regular fa-comments"></i>3 Comments</a>
-                        </div>
-                        <h3 class="box-title blog-title">
-                            <a href="blog-details.html">Best Hot Chessy raw In Pasta Makeing Trick.</a>
-                        </h3>
-                        <p class="blog-text">
-                            Statement underscores the value of thinking Outside the box
-                            and pursuing visionary
-                        </p>
-                        <a href="blog-details.html" class="th-btn rounded-2">Read More<i
-                                class="fa-solid fa-arrow-up-right ms-2"></i></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section class="bg-smoke2 py-5" data-bg-src="assets/img/update_2/bg/newsletter_bg_2.png">
-    <div class="shape-mockup jump d-none d-xxl-block" data-top="-17%" data-left="11%">
-        <img src="assets/img/update_2/shape/plate_3.png" alt="shape" />
-    </div>
-    <div class="container py-1">
-        <div class="subscribe-card">
-            <div>
-                <h2 class="box-title">Subscribe Our Newsletter</h2>
-                <p class="box-text">
-                    Subscribe to our newsletter for the latest updates.
-                </p>
-            </div>
-            <form class="newsletter-form">
-                <input class="form-control" type="email" placeholder="Enter Email Address" required="" />
-                <button type="submit" class="th-btn style3">
-                    SUBCRIBE<i class="fas fa-arrow-right ms-2"></i>
-                </button>
-            </form>
         </div>
     </div>
 </section>
