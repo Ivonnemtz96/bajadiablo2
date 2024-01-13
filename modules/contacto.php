@@ -1,25 +1,45 @@
 <div class="space"></div>
-<div class="" data-pos-for="#contactFormSec" style=" margin-bottom: 3rem">
+<div class="" id="contacto" data-pos-for="#contactFormSec" style=" margin-bottom: 3rem">
+    <div class="row justify-content-center">
+        <div class="col-md-3"></div>
+        <div class="col-md-3" style="text-align: center;">
+            <span class="sub-title" style="text-align: center;"> No te quedes con el antojo</span>
+            <h2 class="sec-title" style="text-align: center;">Visítanos</h2>
+        </div>
+        <div class="col-md-3"></div>
+    </div>
     <div class="container">
         <div class="row gy-4">
             <div class="col-lg-4">
                 <div class="contact-info background-image">
                     <div class="contact-info_icon"><i class="fal fa-phone"></i></div>
-                    <h4 class="contact-info_title box-title">Teléfono</h4><span class="contact-info_text"><a
-                            href="tel:+526242241837">624 224 1837</a>
+                    <h4 class="contact-info_title box-title">Teléfono</h4>
+                    <span class="contact-info_text">
+                        <a href="tel:+526242241837">624 224 1837</a> <br>
                 </div>
             </div>
             <div class="col-lg-4">
+                <div class="contact-info background-image">
+                    <div class="contact-info_icon"><i class="far fa-clock"></i></div>
 
+                    <h4 class="contact-info_title box-title">Horarios</h4>
+                    <span>
+                        Lunes a Jueves: 10:00 am a 1:00 am <br>
+                        Viernes, sábado y domingo: 10:00 am a 2:00 am
+                    </span>
+
+                </div>
             </div>
             <div class="col-lg-4">
                 <div class="contact-info background-image">
                     <div class="contact-info_icon"><i class="fal fa-location-dot"></i></div>
                     <h4 class="contact-info_title box-title">Dirección</h4>
-                    <a target="_blank" href="https://maps.app.goo.gl/NPpKp4VRmjBV7medA">
+                    <a style="text-decoration: underline;" target="_blank"
+                        href="https://maps.app.goo.gl/NPpKp4VRmjBV7medA">
                         <span class="contact-info_text"> <i class="fal fa-location-dot"></i> San José del Cabo</span>
                     </a> <br>
-                    <a target="_blank" href="https://maps.app.goo.gl/hjLsKKB3VFKBHFch7">
+                    <a style="text-decoration: underline;" target="_blank"
+                        href="https://maps.app.goo.gl/hjLsKKB3VFKBHFch7">
                         <span class="contact-info_text"><i class="fal fa-location-dot"></i> Cabo San Lucas</span>
                     </a>
 

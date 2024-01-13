@@ -1,4 +1,4 @@
-<footer class="footer-wrapper footer-layout5" data-bg-src="assets/img/update_2/bg/footer_bg_7.png">
+<footer class="footer-wrapper footer-layout5">
     <div class="container">
         <div class="copyright-wrap border-top">
             <div class="row justify-content-center align-items-center text-center">

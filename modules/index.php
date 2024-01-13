@@ -3,8 +3,7 @@
         style="width: 1920px; height: 900px; margin: 0 auto">
         <div class="ls-slide"
             data-ls="bgsize:cover; bgposition:50% 50%; duration:5000; transition2d:11; kenburnszoom:in; kenburnsscale:1.2;">
-            <img width="1920" height="900" src="assets/img/update_2/hero/hero_bg_7_1.jpg" class="ls-bg" alt=""
-                decoding="async" />
+            <img width="1920" height="900" src="assets/img/07.jpeg" class="ls-bg" alt="" decoding="async" />
             <ls-layer style="
               font-size: 36px;
               color: #000;
@@ -94,7 +93,7 @@
                 data-ls="offsetyin:-300; durationin:1200; delayin:400; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-200; durationout:400; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent;">
                 en vivo!
             </h1>
-            <a style="" class="ls-l ls-hide-tablet ls-hide-phone" href="shop.html" target="_self"
+            <a style="" class="ls-l ls-hide-tablet ls-hide-phone" href="index.php#menu" target="_self"
                 data-ls="offsetyin:-300; durationin:1200; delayin:500; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-120; durationout:800; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent; hover:true; hoveropacity:1; hoverbgcolor:#ffffff; hovercolor:#ff0600;">
                 <ls-layer style="
                 font-size: 14px;
@@ -136,7 +135,7 @@
             " class="ls-l ls-hide-desktop ls-text-layer"
                 data-ls="offsetyin:-300; durationin:1200; delayin:200; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-200; durationout:400; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent;">
                 No te quedes con el antojo</ls-layer>
-            <a style="" class="ls-l ls-hide-desktop" href="shop.html" target="_self"
+            <a style="" class="ls-l ls-hide-desktop" href="index.php#menu" target="_self"
                 data-ls="offsetxin:500; delayin:200; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-120; durationout:800; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent; hover:true; hoveropacity:1; hoverbgcolor:#ffffff; hovercolor:#eb0029;">
                 <ls-layer style="
                 font-size: 32px;
@@ -160,8 +159,7 @@
         </div>
         <div class="ls-slide"
             data-ls="bgsize:cover; bgposition:50% 50%; duration:5000; transition2d:11; kenburnszoom:in; kenburnsscale:1.2;">
-            <img width="1920" height="900" src="assets/img/update_2/hero/hero_bg_7_2.jpg" class="ls-bg" alt=""
-                decoding="async" />
+            <img width="1920" height="900" src="assets/img/08.jpeg" class="ls-bg" alt="" decoding="async" />
             <ls-layer style="
               font-size: 26px;
               stroke: #000;
@@ -222,7 +220,7 @@
                 data-ls="offsetyin:-300; durationin:1200; delayin:400; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-200; durationout:400; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent;">
                 Micheladas
             </h1>
-            <a style="" class="ls-l ls-hide-tablet ls-hide-phone" href="shop.html" target="_self"
+            <a style="" class="ls-l ls-hide-tablet ls-hide-phone" href="index.php#galeria" target="_self"
                 data-ls="offsetyin:-300; durationin:1200; delayin:500; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-120; durationout:800; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent; hover:true; hoveropacity:1; hoverbgcolor:#ffffff; hovercolor:#ff0600;">
                 <ls-layer style="
                 font-size: 14px;
@@ -264,7 +262,7 @@
             " class="ls-l ls-hide-desktop ls-text-layer"
                 data-ls="offsetyin:-300; durationin:1200; delayin:200; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-200; durationout:400; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent;">
                 No te quedes con el antojo</ls-layer>
-            <a style="" class="ls-l ls-hide-desktop" href="shop.html" target="_self"
+            <a style="" class="ls-l ls-hide-desktop" href="index.php#galeria" target="_self"
                 data-ls="offsetxin:500; delayin:200; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-120; durationout:800; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent; hover:true; hoveropacity:1; hoverbgcolor:#ffffff; hovercolor:#eb0029;">
                 <ls-layer style="
                 font-size: 32px;
@@ -288,8 +286,7 @@
         </div>
         <div class="ls-slide"
             data-ls="bgsize:cover; bgposition:50% 50%; duration:5000; transition2d:11; kenburnszoom:in; kenburnsscale:1.2;">
-            <img width="1920" height="900" src="assets/img/update_2/hero/hero_bg_7_3.jpg" class="ls-bg" alt=""
-                decoding="async" />
+            <img width="1920" height="900" src="assets/img/11.jpeg" class="ls-bg" alt="" decoding="async" />
             <ls-layer style="
               font-size: 26px;
               stroke: #000;
@@ -350,7 +347,7 @@
                 data-ls="offsetyin:-300; durationin:1200; delayin:400; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-200; durationout:400; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent;">
                 San Lucas
             </h1>
-            <a style="" class="ls-l ls-hide-tablet ls-hide-phone" href="shop.html" target="_self"
+            <a style="" class="ls-l ls-hide-tablet ls-hide-phone" href="index.php#contacto" target="_self"
                 data-ls="offsetyin:-300; durationin:1200; delayin:500; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-120; durationout:800; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent; hover:true; hoveropacity:1; hoverbgcolor:#ffffff; hovercolor:#ff0600;">
                 <ls-layer style="
                 font-size: 14px;
@@ -391,7 +388,7 @@
               -webkit-background-clip: border-box;
             " class="ls-l ls-hide-desktop ls-text-layer"
                 data-ls="offsetyin:-300; durationin:1200; delayin:200; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-200; durationout:400; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent;">
-                ¿Ya conoces nuestra ubicación?</ls-layer><a style="" class="ls-l ls-hide-desktop" href="shop.html"
+                ¿Ya conoces nuestra ubicación?</ls-layer><a style="" class="ls-l ls-hide-desktop" href="index.php#contacto"
                 target="_self"
                 data-ls="offsetxin:500; delayin:200; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-120; durationout:800; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent; hover:true; hoveropacity:1; hoverbgcolor:#ffffff; hovercolor:#eb0029;">
                 <ls-layer style="
@@ -512,7 +509,7 @@
                 data-ls="offsetyin:-300; durationin:1200; delayin:400; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-200; durationout:400; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent;">
                 en vivo!
             </h1>
-            <a style="" class="ls-l" href="shop.html" target="_self"
+            <a style="" class="ls-l" href="index.php#menu" target="_self"
                 data-ls="offsetyin:-300; durationin:1200; delayin:500; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-120; durationout:800; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent; hover:true; hoveropacity:1; hoverbgcolor:#ffffff; hovercolor:#ff0600;">
                 <ls-layer style="
                 font-size: 14px;
@@ -598,7 +595,7 @@
                 data-ls="offsetyin:-300; durationin:1200; delayin:400; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-200; durationout:400; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent;">
                 Micheladas
             </h1>
-            <a style="" class="ls-l" href="shop.html" target="_self"
+            <a style="" class="ls-l" href="index.php#galeria" target="_self"
                 data-ls="offsetyin:-300; durationin:1200; delayin:500; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-120; durationout:800; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent; hover:true; hoveropacity:1; hoverbgcolor:#ffffff; hovercolor:#ff0600;">
                 <ls-layer style="
                 font-size: 14px;
@@ -684,7 +681,7 @@
                 data-ls="offsetyin:-300; durationin:1200; delayin:400; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-200; durationout:400; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent;">
                 San Lucas
             </h1>
-            <a style="" class="ls-l" href="shop.html" target="_self"
+            <a style="" class="ls-l" href="index.php#contacto" target="_self"
                 data-ls="offsetyin:-300; durationin:1200; delayin:500; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-120; durationout:800; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent; hover:true; hoveropacity:1; hoverbgcolor:#ffffff; hovercolor:#ff0600;">
                 <ls-layer style="
                 font-size: 14px;
@@ -709,8 +706,6 @@
     </div>
 </div>
 <div class="space">
-    
-   
     <div class="container">
         <div class="title-area text-center">
             <span class="sub-title">El mejor ambiente para disfrutar</span>
@@ -721,10 +716,10 @@
             <div class="col-xl-2 col-lg-3 col-md-3 col-sm2">
                 <div class="category-border">
                     <div class="category-border_img">
-                        <img src="assets/img/update_2/normal/category_6_1.png" alt="Image" />
+                        <img src="assets/img/01.png" style="width: 3rem;" alt="Image" />
                     </div>
                     <h3 class="category-border_title">
-                        <a href="shop.html">Micheladas</a>
+                        <a href="index.php#menu">Micheladas</a>
                     </h3>
                     <div class="fire">
                         <img src="assets/img/update_2/shape/fire_2.png" alt="shape" />
@@ -734,10 +729,10 @@
             <div class="col-xl-2 col-lg-3 col-md-3 col-sm2">
                 <div class="category-border">
                     <div class="category-border_img">
-                        <img src="assets/img/update_2/normal/category_6_2.png" alt="Image" />
+                        <img src="assets/img/02.png" style="width: 3rem;" alt="Image" />
                     </div>
                     <h3 class="category-border_title">
-                        <a href="shop.html">Música en vivo</a>
+                        <a href="index.php#galeria">Música en vivo</a>
                     </h3>
                     <div class="fire">
                         <img src="assets/img/update_2/shape/fire_2.png" alt="shape" />
@@ -747,10 +742,10 @@
             <div class="col-xl-2 col-lg-3 col-md-3 col-sm2">
                 <div class="category-border">
                     <div class="category-border_img">
-                        <img src="assets/img/update_2/normal/category_6_3.png" alt="Image" />
+                        <img src="assets/img/03.png" style="width: 3rem;" alt="Image" />
                     </div>
                     <h3 class="category-border_title">
-                        <a href="shop.html">Buen ambiente</a>
+                        <a href="index.php#galeria">Buen ambiente</a>
                     </h3>
                     <div class="fire">
                         <img src="assets/img/update_2/shape/fire_2.png" alt="shape" />
@@ -760,10 +755,10 @@
             <div class="col-xl-2 col-lg-3 col-md-3 col-sm2">
                 <div class="category-border">
                     <div class="category-border_img">
-                        <img src="assets/img/update_2/normal/category_6_4.png" alt="Image" />
+                        <img src="assets/img/04.png" style="width: 3rem;" alt="Image" />
                     </div>
                     <h3 class="category-border_title">
-                        <a href="shop.html">Alitas</a>
+                        <a href="index.php#menu">Alitas</a>
                     </h3>
                     <div class="fire">
                         <img src="assets/img/update_2/shape/fire_2.png" alt="shape" />
@@ -773,10 +768,10 @@
             <div class="col-xl-2 col-lg-3 col-md-3 col-sm2">
                 <div class="category-border">
                     <div class="category-border_img">
-                        <img src="assets/img/update_2/normal/category_6_5.png" alt="Image" />
+                        <img src="assets/img/05.png" style="width: 3rem;" alt="Image" />
                     </div>
                     <h3 class="category-border_title">
-                        <a href="shop.html">Chamoy artesanal</a>
+                        <a href="index.php#menu">Chamoy artesanal</a>
                     </h3>
                     <div class="fire">
                         <img src="assets/img/update_2/shape/fire_2.png" alt="shape" />
@@ -786,7 +781,8 @@
         </div>
     </div>
 </div>
-<div class="about-sec overflow-hidden space-bottom">
+
+<div class="about-sec overflow-hidden space-bottom" id="nosotros">
     <div class="shape-mockup jump d-none d-lg-block" data-top="33%" data-left="5%">
         <!-- <img src="assets/img/update_2/shape/shape_5.png" alt="shape" /> -->
     </div>
@@ -795,7 +791,7 @@
             <div class="col-xl-6">
                 <div class="img-box8">
                     <div class="img1">
-                        <img src="assets/img/update_2/normal/about_8_1.png" alt="About" />
+                        <img src="assets/img/12.png" alt="About" />
                     </div>
 
 
@@ -827,7 +823,7 @@
                         </ul>
                     </div>
                     <div class="btn-group mt-35 justify-content-center justify-content-xl-start">
-                        <a href="about.html" class="th-btn rounded-2">Ver menú<i
+                        <a href="index.php#menu" class="th-btn rounded-2">Ver menú<i
                                 class="fa-solid fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
@@ -836,167 +832,82 @@
     </div>
 </div>
 
-<section class="bg-top-center position-relative" id="productMenu" data-bg-src="assets/img/update_2/bg/menu_bg_6.jpg">
+<section class="space" id="menu">
     <div class="container">
-        <div class="row space justify-content-center">
-            <div class="col-lg-11">
-                <div class="title-area text-center mb-0">
-                    <span class="sub-title">Booking Table</span>
-                    <h2 class="sec-title text-white fs-60">
-                        Discover the art of good Food with Pizzan Restaurant.
-                    </h2>
+        <div class="title-area text-center">
+            <span class="sub-title"> El Toque Perfecto de Picante y Frescura</span>
+            <h2 class="sec-title">Nuestro Menú</h2>
+        </div>
+        <div class="nav nav-tabs menu-tabs" id="nav-tab" role="tablist">
+            <button class="nav-link active" id="nav-step1-tab" data-bs-toggle="tab" data-bs-target="#nav-step1"
+                type="button" style="font-size: 1.5rem;">
+                <img style="width: 2rem;" src="assets/img/01.png" alt="" />
+                English
+            </button>
+            <button style="font-size: 1.5rem;" class="nav-link" id="nav-step2-tab" data-bs-toggle="tab"
+                data-bs-target="#nav-step2" type="button">
+                <img style="width: 2rem;" src="assets/img/01.png" alt="" />Español
+            </button>
+        </div>
+        <div class="tab-content" id="nav-tabContent">
+            <div class="tab-pane fade active show" id="nav-step1" role="tabpanel">
+                <div class="fod-menu-wrap">
+                    <div class="food-menu">
+                        <div class="row">
+                            <div class="col-md-3 mt-3 mb-3">
+                                <img src="assets/img/eng/01.jpg" alt="" />
+                            </div>
+                            <div class="col-md-3 mt-3 mb-3">
+                                <img src="assets/img/eng/02.jpg" alt="" />
+                            </div>
+                            <div class="col-md-3 mt-3 mb-3">
+                                <img src="assets/img/eng/03.jpg" alt="" />
+                            </div>
+                            <div class="col-md-3 mt-3 mb-3">
+                                <img src="assets/img/eng/04.jpg" alt="" />
+                            </div>
+                            <div class="col-md-3 mt-3 mb-3">
+                                <img src="assets/img/eng/05.jpg" alt="" />
+                            </div>
+                            <div class="col-md-3 mt-3 mb-3">
+                                <img src="assets/img/eng/06.jpg" alt="" />
+                            </div>
+                            <div class="col-md-3 mt-3 mb-3">
+                                <img src="assets/img/eng/07.jpg" alt="" />
+                            </div>
+                            <div class="col-md-3 mt-3 mb-3">
+                                <img src="assets/img/eng/08.jpg" alt="" />
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
-        </div>
-    </div>
-    <div class="food-menu-area">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-8">
-                    <div class="title-area text-center text-xl-start">
-                        <span class="sub-title">Best Food Menu</span>
-                        <h2 class="sec-title">Choose your best menu</h2>
-                    </div>
+            <div class="tab-pane fade" id="nav-step2" role="tabpanel">
+                <div class="food-menu">
                     <div class="row">
-                        <div class="col-lg-6">
-                            <div class="food-menu-list border-md">
-                                <div class="food-menu">
-                                    <div class="food-menu_img">
-                                        <img src="assets/img/update_2/menu/menu_2_1.png" alt="Menu" />
-                                    </div>
-                                    <div class="food-menu_content">
-                                        <h3 class="food-menu_title">
-                                            <a href="menu.html">Chicken Barger</a>
-                                        </h3>
-                                        <p class="food-menu_desc">Grilling Churrasco Meat,</p>
-                                        <div class="product-rating">
-                                            <div class="star-rating" role="img" aria-label="Rated 4.00 out of 5">
-                                                <span style="width: 75%">Rated <strong class="rating">4.00</strong> out
-                                                    of
-                                                    5</span>
-                                            </div>
-                                            4K Reviews
-                                        </div>
-                                    </div>
-                                    <span class="food-menu_price">$89.39</span>
-                                </div>
-                                <div class="food-menu">
-                                    <div class="food-menu_img">
-                                        <img src="assets/img/update_2/menu/menu_2_2.png" alt="Menu" />
-                                    </div>
-                                    <div class="food-menu_content">
-                                        <h3 class="food-menu_title">
-                                            <a href="menu.html">Beef Barger</a>
-                                        </h3>
-                                        <p class="food-menu_desc">Fresh from the ocean</p>
-                                        <div class="product-rating">
-                                            <div class="star-rating" role="img" aria-label="Rated 4.00 out of 5">
-                                                <span style="width: 75%">Rated <strong class="rating">4.00</strong> out
-                                                    of
-                                                    5</span>
-                                            </div>
-                                            4K Reviews
-                                        </div>
-                                    </div>
-                                    <span class="food-menu_price">$79.39</span>
-                                </div>
-                                <div class="food-menu">
-                                    <div class="food-menu_img">
-                                        <img src="assets/img/update_2/menu/menu_2_3.png" alt="Menu" />
-                                    </div>
-                                    <div class="food-menu_content">
-                                        <h3 class="food-menu_title">
-                                            <a href="menu.html">Chicken Pizza</a>
-                                        </h3>
-                                        <p class="food-menu_desc">Japanese cuisine Bowl</p>
-                                        <div class="product-rating">
-                                            <div class="star-rating" role="img" aria-label="Rated 4.00 out of 5">
-                                                <span style="width: 75%">Rated <strong class="rating">4.00</strong> out
-                                                    of
-                                                    5</span>
-                                            </div>
-                                            4K Reviews
-                                        </div>
-                                    </div>
-                                    <span class="food-menu_price">$59.39</span>
-                                </div>
-                            </div>
+                        <div class="col-md-3 mt-3 mb-3">
+                            <img src="assets/img/esp/1.jpg" alt="" />
                         </div>
-                        <div class="col-lg-6">
-                            <div class="food-menu-list">
-                                <div class="food-menu">
-                                    <div class="food-menu_img">
-                                        <img src="assets/img/update_2/menu/menu_2_4.png" alt="Menu" />
-                                    </div>
-                                    <div class="food-menu_content">
-                                        <h3 class="food-menu_title">
-                                            <a href="menu.html">Brief Barger</a>
-                                        </h3>
-                                        <p class="food-menu_desc">Grilling Churrasco Meat,</p>
-                                        <div class="product-rating">
-                                            <div class="star-rating" role="img" aria-label="Rated 4.00 out of 5">
-                                                <span style="width: 75%">Rated <strong class="rating">4.00</strong> out
-                                                    of
-                                                    5</span>
-                                            </div>
-                                            4K Reviews
-                                        </div>
-                                    </div>
-                                    <span class="food-menu_price">$89.39</span>
-                                </div>
-                                <div class="food-menu">
-                                    <div class="food-menu_img">
-                                        <img src="assets/img/update_2/menu/menu_2_5.png" alt="Menu" />
-                                    </div>
-                                    <div class="food-menu_content">
-                                        <h3 class="food-menu_title">
-                                            <a href="menu.html">Beef Barbecue</a>
-                                        </h3>
-                                        <p class="food-menu_desc">Fresh from the ocean</p>
-                                        <div class="product-rating">
-                                            <div class="star-rating" role="img" aria-label="Rated 4.00 out of 5">
-                                                <span style="width: 75%">Rated <strong class="rating">4.00</strong> out
-                                                    of
-                                                    5</span>
-                                            </div>
-                                            4K Reviews
-                                        </div>
-                                    </div>
-                                    <span class="food-menu_price">$79.39</span>
-                                </div>
-                                <div class="food-menu">
-                                    <div class="food-menu_img">
-                                        <img src="assets/img/update_2/menu/menu_2_6.png" alt="Menu" />
-                                    </div>
-                                    <div class="food-menu_content">
-                                        <h3 class="food-menu_title">
-                                            <a href="menu.html">European</a>
-                                        </h3>
-                                        <p class="food-menu_desc">Japanese cuisine Bowl</p>
-                                        <div class="product-rating">
-                                            <div class="star-rating" role="img" aria-label="Rated 4.00 out of 5">
-                                                <span style="width: 75%">Rated <strong class="rating">4.00</strong> out
-                                                    of
-                                                    5</span>
-                                            </div>
-                                            4K Reviews
-                                        </div>
-                                    </div>
-                                    <span class="food-menu_price">$59.39</span>
-                                </div>
-                            </div>
+                        <div class="col-md-3 mt-3 mb-3">
+                            <img src="assets/img/esp/2.jpg" alt="" />
                         </div>
-                    </div>
-                </div>
-                <div class="col-xl-4 mt-40 mt-xl-0">
-                    <div class="menu-image-card" data-bg-src="assets/img/update_2/normal/image_menu_bg.jpg">
-                        <div class="discount_style4" data-bg-src="assets/img/update_2/shape/discount_bg_1.svg">
-                            <p class="small-text">Up to</p>
-                            <h3 class="percentage">32%</h3>
-                            <p class="small-text">discount</p>
+                        <div class="col-md-3 mt-3 mb-3">
+                            <img src="assets/img/esp/3.jpg" alt="" />
                         </div>
-                        <div class="img1">
-                            <img src="assets/img/update_2/normal/image_menu_2.png" alt="About" />
+                        <div class="col-md-3 mt-3 mb-3">
+                            <img src="assets/img/esp/4.jpg" alt="" />
+                        </div>
+                        <div class="col-md-3 mt-3 mb-3">
+                            <img src="assets/img/esp/5.jpg" alt="" />
+                        </div>
+                        <div class="col-md-3 mt-3 mb-3">
+                            <img src="assets/img/esp/6.jpg" alt="" />
+                        </div>
+                        <div class="col-md-3 mt-3 mb-3">
+                            <img src="assets/img/esp/7.jpg" alt="" />
+                        </div>
+                        <div class="col-md-3 mt-3 mb-3">
+                            <img src="assets/img/esp/8.jpg" alt="" />
                         </div>
                     </div>
                 </div>
@@ -1015,7 +926,7 @@
             <div class="col-xl-4 col-md-6">
                 <div class="why-list right-align">
                     <div class="why-list_icon">
-                        <img src="assets/img/update_2/icon/why_list_1.svg" alt="icon" />
+                        <img src="assets/img/03.png" style="width: 60px;" alt="icon" />
                     </div>
                     <div class="media-body">
                         <h3 class="box-title">Música en vivo</h3>
@@ -1026,7 +937,7 @@
                 </div>
                 <div class="why-list right-align">
                     <div class="why-list_icon">
-                        <img src="assets/img/update_2/icon/why_list_2.svg" alt="icon" />
+                        <img src="assets/img/05.png" style="width: 60px;" alt="icon" />
                     </div>
                     <div class="media-body">
                         <h3 class="box-title">Chamoy artesanal</h3>
@@ -1038,13 +949,13 @@
             </div>
             <div class="col-xl-4 col-md-6 d-none d-xl-block">
                 <div class="text-center">
-                    <img src="assets/img/update_2/normal/image_menu_2.png" alt="About" />
+                    <img src="assets/img/19.png" alt="About" />
                 </div>
             </div>
             <div class="col-xl-4 col-md-6">
                 <div class="why-list">
                     <div class="why-list_icon">
-                        <img src="assets/img/update_2/icon/why_list_3.svg" alt="icon" />
+                        <img src="assets/img/update_2/icon/why_list_1.svg" alt="icon" />
                     </div>
                     <div class="media-body">
                         <h3 class="box-title">Exquisita comida</h3>
@@ -1055,7 +966,7 @@
                 </div>
                 <div class="why-list">
                     <div class="why-list_icon">
-                        <img src="assets/img/update_2/icon/why_list_4.svg" alt="icon" />
+                        <img src="assets/img/13.png" style="width: 60px;" alt="icon" />
                     </div>
                     <div class="media-body">
                         <h3 class="box-title">Estamos cerca de ti</h3>
@@ -1068,8 +979,11 @@
         </div>
     </div>
 </section>
-<section class="" data-pos-for="#testiSec" data-sec-pos="bottom-half">
-    <div class="container">
+
+<div id="galeria" style="margin-bottom: 5rem;"></div>
+
+<section class="" data-pos-for="#testiSec" >
+    <div class="container" >
         <div class="row justify-content-center justify-content-lg-between align-items-end">
             <div class="col-lg-7 mb-n2 mb-lg-0">
                 <div class="title-area text-center text-lg-start">
@@ -1099,60 +1013,50 @@
                 <div class="col-xxl-auto col-md-6">
                     <div class="gallery-card style2 mb-0">
                         <div class="gallery-img">
-                            <img src="assets/img/update_2/gallery/gallery_4_1.jpg" alt="gallery image" />
+                            <img src="assets/img/14.jpg" alt="gallery image" />
                         </div>
                         <div class="gallery-content">
-                            <h2 class="gallery-title box-title">Hotest Egg</h2>
-                            <a href="assets/img/update_2/gallery/gallery_4_1.jpg" class="icon-btn popup-image"><i
-                                    class="fas fa-plus"></i></a>
+                            <a href="assets/img/14.jpg" class="icon-btn popup-image"><i class="fas fa-eye"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-xxl-auto col-md-6">
                     <div class="gallery-card style2 mb-0">
                         <div class="gallery-img">
-                            <img src="assets/img/update_2/gallery/gallery_4_2.jpg" alt="gallery image" />
+                            <img src="assets/img/15.png" alt="gallery image" />
                         </div>
                         <div class="gallery-content">
-                            <h2 class="gallery-title box-title">Chicken Fry</h2>
-                            <a href="assets/img/update_2/gallery/gallery_4_2.jpg" class="icon-btn popup-image"><i
-                                    class="fas fa-plus"></i></a>
+                            <a href="assets/img/15.png" class="icon-btn popup-image"><i class="fas fa-eye"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-xxl-auto col-md-6">
                     <div class="gallery-card style2 mb-0">
                         <div class="gallery-img">
-                            <img src="assets/img/update_2/gallery/gallery_4_3.jpg" alt="gallery image" />
+                            <img src="assets/img/16.jpg" alt="gallery image" />
                         </div>
                         <div class="gallery-content">
-                            <h2 class="gallery-title box-title">Duck Recipes</h2>
-                            <a href="assets/img/update_2/gallery/gallery_4_3.jpg" class="icon-btn popup-image"><i
-                                    class="fas fa-plus"></i></a>
+                            <a href="assets/img/16.jpg" class="icon-btn popup-image"><i class="fas fa-eye"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-xxl-auto col-md-6">
                     <div class="gallery-card style2 mb-0">
                         <div class="gallery-img">
-                            <img src="assets/img/update_2/gallery/gallery_4_4.jpg" alt="gallery image" />
+                            <img src="assets/img/17.jpg" alt="gallery image" />
                         </div>
                         <div class="gallery-content">
-                            <h2 class="gallery-title box-title">Full Chicken Grill</h2>
-                            <a href="assets/img/update_2/gallery/gallery_4_4.jpg" class="icon-btn popup-image"><i
-                                    class="fas fa-plus"></i></a>
+                            <a href="assets/img/17.jpg" class="icon-btn popup-image"><i class="fas fa-eye"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-xxl-auto col-md-6">
                     <div class="gallery-card style2 mb-0">
                         <div class="gallery-img">
-                            <img src="assets/img/update_2/gallery/gallery_4_5.jpg" alt="gallery image" />
+                            <img src="assets/img/18.jpg" alt="gallery image" />
                         </div>
                         <div class="gallery-content">
-                            <h2 class="gallery-title box-title">Chicken Ball</h2>
-                            <a href="assets/img/update_2/gallery/gallery_4_5.jpg" class="icon-btn popup-image"><i
-                                    class="fas fa-plus"></i></a>
+                            <a href="assets/img/18.jpg" class="icon-btn popup-image"><i class="fas fa-eye"></i></a>
                         </div>
                     </div>
                 </div>
@@ -1160,10 +1064,8 @@
         </div>
     </div>
 </section>
-<section class="space bg-smoke2" id="testiSec" data-bg-src="assets/img/update_2/bg/testi_bg_4.png">
-    <div class="shape-mockup moving d-none d-xl-block" data-bottom="10%" data-right="4%">
-        <img src="assets/img/update_2/shape/tomato_6.png" alt="shape" />
-    </div>
+
+<section id="reviews" class="space bg-smoke2" id="testiSec" data-bg-src="assets/img/update_2/bg/testi_bg_4.png">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-xl-4 text-center text-xl-start">
@@ -1192,7 +1094,7 @@
                             </div>
                             <div class="testi-block_profile">
                                 <div class="testi-block_avater">
-                                    <img src="assets/img/update_2/normal/testi_4_1.jpg" alt="Avater" />
+                                  
                                     <div class="testi-block_quote">
                                         <img src="assets/img/update_2/icon/quote_1.svg" alt="Icon" />
                                     </div>
@@ -1221,7 +1123,7 @@
                             </div>
                             <div class="testi-block_profile">
                                 <div class="testi-block_avater">
-                                    <img src="assets/img/update_2/normal/testi_4_2.jpg" alt="Avater" />
+                                   
                                     <div class="testi-block_quote">
                                         <img src="assets/img/update_2/icon/quote_1.svg" alt="Icon" />
                                     </div>
@@ -1251,7 +1153,6 @@
                             </div>
                             <div class="testi-block_profile">
                                 <div class="testi-block_avater">
-                                    <img src="assets/img/update_2/normal/testi_4_3.jpg" alt="Avater" />
                                     <div class="testi-block_quote">
                                         <img src="assets/img/update_2/icon/quote_1.svg" alt="Icon" />
                                     </div>

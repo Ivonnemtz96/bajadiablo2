@@ -2,17 +2,18 @@
     <div class="th-menu-area text-center">
         <button class="th-menu-toggle"><i class="fal fa-times"></i></button>
         <div class="mobile-logo">
-            <a href="index.html"><img src="assets/img/logo.svg" alt="Pizzan" /></a>
+            <a href="index.php"><img style="width: 10rem;" src="assets/img/logo.png" alt="baja diablo" /></a>
         </div>
         <div class="th-mobile-menu">
             <ul>
-                <li class="menu-item-has-children">
-                    <a href="index.html">Inicio</a>
+                <li >
+                    <a href="index.php">Inicio</a>
                 </li>
-                <li><a href="contact.html">Menú</a></li>
-                <li><a href="contact.html">Galería</a></li>
-                <li><a href="contact.html">Contacto</a></li>
-                <li><a href="contact.html">Reviews</a></li>
+                <li><a href="index.php#nosotros">Nosotros</a></li>
+                <li><a href="index.php#menu">Menú</a></li>
+                <li><a href="index.php#galeria">Galería</a></li>
+                <li><a href="index.php#contacto">Contacto</a></li>
+                <li><a href="index.php#reviews">Reviews</a></li>
             </ul>
         </div>
     </div>
@@ -21,22 +22,23 @@
     <div class="sticky-wrapper">
         <div class="menu-area">
             <div class="container th-container">
-                <div class="row align-items-center justify-content-between">
+                <div class="row align-items-center justify-content-between" style="background: white;">
                     <div class="col-auto">
                         <div class="header-logo">
-                            <a href="index.html"><img src="assets/img/logo-white.svg" alt="Pizzan" /></a>
+                            <a href="index.php"><img style="width: 10rem;" src="assets/img/logo.png" alt="baja diablo" /></a>
                         </div>
                     </div>
                     <div class="col-auto">
                         <nav class="main-menu d-none d-lg-inline-block">
                             <ul>
-                                <li class="menu-item-has-children">
-                                    <a href="index.html">Inicio</a>
+                                <li>
+                                    <a style="color: #461e1e;" href="index.php">Inicio</a>
                                 </li>
-                                <li><a href="contact.html">Menú</a></li>
-                                <li><a href="contact.html">Galería</a></li>
-                                <li><a href="contact.html">Contacto</a></li>
-                                <li><a href="contact.html">Reviews</a></li>
+                                <li><a style="color: #461e1e;" href="index.php#nosotros">Nosotros</a></li>
+                                <li><a style="color: #461e1e;" href="index.php#menu">Menú</a></li>
+                                <li><a style="color: #461e1e;" href="index.php#galeria">Galería</a></li>
+                                <li><a style="color: #461e1e;" href="index.php#contacto">Contacto</a></li>
+                                <li><a style="color: #461e1e;" href="index.php#reviews">Reviews</a></li>
                             </ul>
                         </nav>
                     </div>
