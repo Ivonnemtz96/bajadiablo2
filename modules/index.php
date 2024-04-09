@@ -1,4 +1,4 @@
-<div class="d-none d-md-block">
+<div class="d-none d-lg-block">
     <div id="slider" class="ls-wp-container fitvidsignore hero-7 th-hero-carousel"
         style="width: 1920px; height: 900px; margin: 0 auto">
         <div class="ls-slide"
@@ -286,7 +286,7 @@
         </div>
         <div class="ls-slide"
             data-ls="bgsize:cover; bgposition:50% 50%; duration:5000; transition2d:11; kenburnszoom:in; kenburnsscale:1.2;">
-            <img width="1920" height="900" src="assets/img/11.jpeg" class="ls-bg" alt="" decoding="async" />
+            <img width="1920" height="900" src="assets/img/20.jpg" class="ls-bg" alt="" decoding="async" />
             <ls-layer style="
               font-size: 26px;
               stroke: #000;
@@ -388,8 +388,8 @@
               -webkit-background-clip: border-box;
             " class="ls-l ls-hide-desktop ls-text-layer"
                 data-ls="offsetyin:-300; durationin:1200; delayin:200; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-200; durationout:400; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent;">
-                ¿Ya conoces nuestra ubicación?</ls-layer><a style="" class="ls-l ls-hide-desktop" href="index.php#contacto"
-                target="_self"
+                ¿Ya conoces nuestra ubicación?</ls-layer><a style="" class="ls-l ls-hide-desktop"
+                href="index.php#contacto" target="_self"
                 data-ls="offsetxin:500; delayin:200; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-120; durationout:800; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent; hover:true; hoveropacity:1; hoverbgcolor:#ffffff; hovercolor:#eb0029;">
                 <ls-layer style="
                 font-size: 32px;
@@ -413,13 +413,12 @@
         </div>
     </div>
 </div>
-<div class="d-block d-md-none">
+<div class="d-block d-lg-none">
     <div id="slider-phone" class="ls-wp-container fitvidsignore hero-7 th-hero-carousel"
         style="width: 500px; height: 600px; margin: 0 auto">
         <div class="ls-slide"
             data-ls="bgsize:cover; bgposition:50% 50%; duration:5000; transition2d:5; kenburnszoom:in; kenburnsscale:1.2;">
-            <img width="500" height="600" src="assets/img/update_2/hero/hero_bg_7_1_1.jpg" class="ls-bg" alt=""
-                decoding="async" />
+            <img width="500" height="600" src="assets/img/06.jpeg" class="ls-bg" alt="" decoding="async" />
             <ls-layer style="
               font-size: 36px;
               color: #000;
@@ -533,8 +532,7 @@
         </div>
         <div class="ls-slide"
             data-ls="bgsize:cover; bgposition:50% 50%; duration:5000; transition2d:5; kenburnszoom:in; kenburnsscale:1.2;">
-            <img width="500" height="600" src="assets/img/update_2/hero/hero_bg_7_1_2.jpg" class="ls-bg" alt=""
-                decoding="async" />
+            <img width="500" height="600" src="assets/img/09.jpeg" class="ls-bg" alt="" decoding="async" />
             <h1 style="
               text-align: left;
               text-decoration: none;
@@ -619,8 +617,7 @@
         </div>
         <div class="ls-slide"
             data-ls="bgsize:cover; bgposition:50% 50%; duration:5000; transition2d:5; kenburnszoom:in; kenburnsscale:1.2;">
-            <img width="500" height="600" src="assets/img/update_2/hero/hero_bg_7_1_2.jpg" class="ls-bg" alt=""
-                decoding="async" />
+            <img width="500" height="600" src="assets/img/21.jpg" class="ls-bg" alt="" decoding="async" />
             <h1 style="
               text-align: left;
               text-decoration: none;
@@ -705,6 +702,8 @@
         </div>
     </div>
 </div>
+
+
 <div class="space">
     <div class="container">
         <div class="title-area text-center">
@@ -982,8 +981,8 @@
 
 <div id="galeria" style="margin-bottom: 5rem;"></div>
 
-<section class="" data-pos-for="#testiSec" >
-    <div class="container" >
+<section class="" data-pos-for="#testiSec">
+    <div class="container">
         <div class="row justify-content-center justify-content-lg-between align-items-end">
             <div class="col-lg-7 mb-n2 mb-lg-0">
                 <div class="title-area text-center text-lg-start">
@@ -1010,6 +1009,73 @@
             <div class="row th-carousel" id="gallerySlide1" data-focuson-select="false" data-slide-show="4"
                 data-ml-slide-show="3" data-lg-slide-show="3" data-md-slide-show="2" data-sm-slide-show="1"
                 data-xs-slide-show="1">
+
+                <div class="col-xxl-auto col-md-6">
+                    <div class="gallery-card style2 mb-0">
+                        <div class="gallery-img">
+                            <img src="assets/img/22.jpg" alt="gallery image" />
+                        </div>
+                        <div class="gallery-content">
+                            <a href="assets/img/22.jpg" class="icon-btn popup-image"><i class="fas fa-eye"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xxl-auto col-md-6">
+                    <div class="gallery-card style2 mb-0">
+                        <div class="gallery-img">
+                            <img src="assets/img/23.jpg" alt="gallery image" />
+                        </div>
+                        <div class="gallery-content">
+                            <a href="assets/img/23.jpg" class="icon-btn popup-image"><i class="fas fa-eye"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xxl-auto col-md-6">
+                    <div class="gallery-card style2 mb-0">
+                        <div class="gallery-img">
+                            <img src="assets/img/24.jpg" alt="gallery image" />
+                        </div>
+                        <div class="gallery-content">
+                            <a href="assets/img/24.jpg" class="icon-btn popup-image"><i class="fas fa-eye"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xxl-auto col-md-6">
+                    <div class="gallery-card style2 mb-0">
+                        <div class="gallery-img">
+                            <img src="assets/img/25.jpg" alt="gallery image" />
+                        </div>
+                        <div class="gallery-content">
+                            <a href="assets/img/25.jpg" class="icon-btn popup-image"><i class="fas fa-eye"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xxl-auto col-md-6">
+                    <div class="gallery-card style2 mb-0">
+                        <div class="gallery-img">
+                            <img src="assets/img/26.jpg" alt="gallery image" />
+                        </div>
+                        <div class="gallery-content">
+                            <a href="assets/img/26.jpg" class="icon-btn popup-image"><i class="fas fa-eye"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xxl-auto col-md-6">
+                    <div class="gallery-card style2 mb-0">
+                        <div class="gallery-img">
+                            <img src="assets/img/27.jpg" alt="gallery image" />
+                        </div>
+                        <div class="gallery-content">
+                            <a href="assets/img/27.jpg" class="icon-btn popup-image"><i class="fas fa-eye"></i></a>
+                        </div>
+                    </div>
+                </div>
+
                 <div class="col-xxl-auto col-md-6">
                     <div class="gallery-card style2 mb-0">
                         <div class="gallery-img">
@@ -1094,7 +1160,7 @@
                             </div>
                             <div class="testi-block_profile">
                                 <div class="testi-block_avater">
-                                  
+
                                     <div class="testi-block_quote">
                                         <img src="assets/img/update_2/icon/quote_1.svg" alt="Icon" />
                                     </div>
@@ -1123,7 +1189,7 @@
                             </div>
                             <div class="testi-block_profile">
                                 <div class="testi-block_avater">
-                                   
+
                                     <div class="testi-block_quote">
                                         <img src="assets/img/update_2/icon/quote_1.svg" alt="Icon" />
                                     </div>

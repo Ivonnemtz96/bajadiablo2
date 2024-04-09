@@ -37,7 +37,7 @@
     background-color: #262c5d;
     color: #FFF;
     border-radius: 2px 0 0 2px;
-    z-index: 10;
+    z-index: 100;
     transition: all 0.5s ease-in-out;
     vertical-align: middle
 }
@@ -84,7 +84,7 @@
     background: #262c5d;
     color: #FFF;
     border-radius: 2px 0 0 2px;
-    z-index: 10;
+    z-index: 100;
     transition: all 0.5s ease-in-out;
     vertical-align: middle
 }
@@ -131,7 +131,7 @@
     background-color: #262c5d;
     color: #FFF;
     border-radius: 2px 0 0 2px;
-    z-index: 10;
+    z-index: 100;
     transition: all 0.5s ease-in-out;
     vertical-align: middle
 }
@@ -179,7 +179,7 @@
     background-color: #262c5d;
     color: #FFF;
     border-radius: 2px 0 0 2px;
-    z-index: 10;
+    z-index: 100;
     transition: all 0.5s ease-in-out;
     vertical-align: middle
 }
