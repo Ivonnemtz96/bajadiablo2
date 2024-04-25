@@ -24,8 +24,8 @@
 
                     <h4 class="contact-info_title box-title">Horarios</h4>
                     <span>
-                        Lunes a Jueves: 10:00 am a 1:00 am <br>
-                        Viernes, sábado y domingo: 10:00 am a 2:00 am
+                        CSL:Lun a Dom: 12:00 am a 2:00 am <br>
+                        SJC:Lun a Dom: 12:00 am a 4:00 am
                     </span>
 
                 </div>

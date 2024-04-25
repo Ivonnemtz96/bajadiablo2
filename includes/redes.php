@@ -240,7 +240,7 @@
 </style>
 
 <div class="whats-float radius">
-    <a href="https://wa.me/+526242133413?text=Hola%20me%20gustaría%20más%20información." target="_blank">
+    <a href="https://wa.me/+526242241837?text=Hola%20me%20gustaría%20más%20información." target="_blank">
         <i class="fab fa-whatsapp"></i>
     </a>
 </div>
