@@ -93,7 +93,7 @@
                 data-ls="offsetyin:-300; durationin:1200; delayin:400; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-200; durationout:400; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent;">
                 en vivo!
             </h1>
-            <a style="" class="ls-l ls-hide-tablet ls-hide-phone" href="index.php#menu" target="_self"
+            <a style="" class="ls-l ls-hide-tablet ls-hide-phone" href="index.php#galeria" target="_self"
                 data-ls="offsetyin:-300; durationin:1200; delayin:500; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-120; durationout:800; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent; hover:true; hoveropacity:1; hoverbgcolor:#ffffff; hovercolor:#ff0600;">
                 <ls-layer style="
                 font-size: 14px;
@@ -111,7 +111,7 @@
                 font-weight: 600;
                 border-radius: 4px 4px 4px 4px;
                 background-color: #ff0600;
-              " class="ls-ib-icon ls-button-layer">Ver menú<i class="fa fa-arrow-right"
+              " class="ls-ib-icon ls-button-layer">Ver galería<i class="fa fa-arrow-right"
                         style="margin-left: 0.5em; font-size: 1em"></i></ls-layer>
             </a>
             <ls-layer style="
@@ -135,7 +135,7 @@
             " class="ls-l ls-hide-desktop ls-text-layer"
                 data-ls="offsetyin:-300; durationin:1200; delayin:200; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-200; durationout:400; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent;">
                 No te quedes con el antojo</ls-layer>
-            <a style="" class="ls-l ls-hide-desktop" href="index.php#menu" target="_self"
+            <a style="" class="ls-l ls-hide-desktop" href="index.php#galeria" target="_self"
                 data-ls="offsetxin:500; delayin:200; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-120; durationout:800; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent; hover:true; hoveropacity:1; hoverbgcolor:#ffffff; hovercolor:#eb0029;">
                 <ls-layer style="
                 font-size: 32px;
@@ -153,7 +153,7 @@
                 background-color: #eb0029;
                 border-radius: 10px 10px 10px 10px;
                 width: 370px;
-              " class="ls-ib-icon ls-button-layer">Ver menú<i class="fa fa-arrow-right"
+              " class="ls-ib-icon ls-button-layer">Ver galería<i class="fa fa-arrow-right"
                         style="margin-left: 0.5em; font-size: 1em"></i></ls-layer>
             </a>
         </div>
@@ -508,7 +508,7 @@
                 data-ls="offsetyin:-300; durationin:1200; delayin:400; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-200; durationout:400; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent;">
                 en vivo!
             </h1>
-            <a style="" class="ls-l" href="index.php#menu" target="_self"
+            <a style="" class="ls-l" href="index.php#galeria" target="_self"
                 data-ls="offsetyin:-300; durationin:1200; delayin:500; easingin:easeOutBack; bgcolorin:transparent; colorin:transparent; offsetxout:-120; durationout:800; startatout:slidechangeonly + ; bgcolorout:transparent; colorout:transparent; hover:true; hoveropacity:1; hoverbgcolor:#ffffff; hovercolor:#ff0600;">
                 <ls-layer style="
                 font-size: 14px;
@@ -526,7 +526,7 @@
                 font-weight: 600;
                 border-radius: 4px 4px 4px 4px;
                 background-color: #ff0600;
-              " class="ls-ib-icon ls-button-layer">Ver menú<i class="fa fa-arrow-right"
+              " class="ls-ib-icon ls-button-layer">Ver galería<i class="fa fa-arrow-right"
                         style="margin-left: 0.5em; font-size: 1em"></i></ls-layer>
             </a>
         </div>
@@ -718,7 +718,7 @@
                         <img src="assets/img/01.png" style="width: 3rem;" alt="Image" />
                     </div>
                     <h3 class="category-border_title">
-                        <a href="index.php#menu">Micheladas</a>
+                        <a href="index.php">Micheladas</a>
                     </h3>
                     <div class="fire">
                         <img src="assets/img/update_2/shape/fire_2.png" alt="shape" />
@@ -757,7 +757,7 @@
                         <img src="assets/img/04.png" style="width: 3rem;" alt="Image" />
                     </div>
                     <h3 class="category-border_title">
-                        <a href="index.php#menu">Alitas</a>
+                        <a href="index.php">Alitas</a>
                     </h3>
                     <div class="fire">
                         <img src="assets/img/update_2/shape/fire_2.png" alt="shape" />
@@ -770,7 +770,7 @@
                         <img src="assets/img/05.png" style="width: 3rem;" alt="Image" />
                     </div>
                     <h3 class="category-border_title">
-                        <a href="index.php#menu">Chamoy artesanal</a>
+                        <a href="index.php">Chamoy artesanal</a>
                     </h3>
                     <div class="fire">
                         <img src="assets/img/update_2/shape/fire_2.png" alt="shape" />
@@ -822,7 +822,7 @@
                         </ul>
                     </div>
                     <div class="btn-group mt-35 justify-content-center justify-content-xl-start">
-                        <a href="index.php#menu" class="th-btn rounded-2">Ver menú<i
+                        <a href="index.php#galeria" class="th-btn rounded-2">Ver galería<i
                                 class="fa-solid fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
@@ -831,7 +831,7 @@
     </div>
 </div>
 
-<section class="space" id="menu">
+<section hidden class="space" id="menu">
     <div class="container">
         <div class="title-area text-center">
             <span class="sub-title"> El Toque Perfecto de Picante y Frescura</span>

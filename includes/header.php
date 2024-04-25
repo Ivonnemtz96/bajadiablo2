@@ -10,7 +10,7 @@
                     <a href="index.php">Inicio</a>
                 </li>
                 <li><a href="index.php#nosotros">Nosotros</a></li>
-                <li><a href="index.php#menu">Menú</a></li>
+                <!-- <li><a href="index.php#menu">Menú</a></li> -->
                 <li><a href="index.php#galeria">Galería</a></li>
                 <li><a href="index.php#contacto">Contacto</a></li>
                 <li><a href="index.php#reviews">Reviews</a></li>
@@ -35,7 +35,7 @@
                                     <a style="color: #461e1e;" href="index.php">Inicio</a>
                                 </li>
                                 <li><a style="color: #461e1e;" href="index.php#nosotros">Nosotros</a></li>
-                                <li><a style="color: #461e1e;" href="index.php#menu">Menú</a></li>
+                                <!-- <li><a style="color: #461e1e;" href="index.php#menu">Menú</a></li> -->
                                 <li><a style="color: #461e1e;" href="index.php#galeria">Galería</a></li>
                                 <li><a style="color: #461e1e;" href="index.php#contacto">Contacto</a></li>
                                 <li><a style="color: #461e1e;" href="index.php#reviews">Reviews</a></li>
