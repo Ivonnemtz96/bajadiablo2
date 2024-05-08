@@ -15,7 +15,13 @@
                     <div class="contact-info_icon"><i class="fal fa-phone"></i></div>
                     <h4 class="contact-info_title box-title">Teléfono</h4>
                     <span class="contact-info_text">
-                        <a href="tel:+526242241837">624 224 1837</a> <br>
+                        Cabo San Lucas
+                        <a href="tel:+526241226544">+52 624 122 6544</a>
+                    </span> <hr>
+                    <span class="contact-info_text">
+                        San José del Cabo
+                        <a href="tel:+526242382003">+52 624 238 2003</a>
+                    </span>
                 </div>
             </div>
             <div class="col-lg-4">
@@ -24,7 +30,7 @@
 
                     <h4 class="contact-info_title box-title">Horarios</h4>
                     <span>
-                        CSL:Lun a Dom: 12:00 am a 2:00 am <br>
+                        CSL:Lun a Dom: 12:00 am a 2:00 am <br><br> <hr>
                         SJC:Lun a Dom: 12:00 am a 4:00 am
                     </span>
 
@@ -37,7 +43,7 @@
                     <a style="text-decoration: underline;" target="_blank"
                         href="https://maps.app.goo.gl/NPpKp4VRmjBV7medA">
                         <span class="contact-info_text"> <i class="fal fa-location-dot"></i> San José del Cabo</span>
-                    </a> <br>
+                    </a> <br> <hr>
                     <a style="text-decoration: underline;" target="_blank"
                         href="https://maps.app.goo.gl/hjLsKKB3VFKBHFch7">
                         <span class="contact-info_text"><i class="fal fa-location-dot"></i> Cabo San Lucas</span>
