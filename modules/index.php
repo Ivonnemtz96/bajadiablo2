@@ -715,7 +715,7 @@
             <div class="col-xl-2 col-lg-3 col-md-3 col-sm2">
                 <div class="category-border">
                     <div class="category-border_img">
-                        <img src="assets/img/01.png" style="width: 3rem;" alt="Image" />
+                        <img src="assets/img/32.webp" style="width: 8rem;" alt="Image" />
                     </div>
                     <h3 class="category-border_title">
                         <a href="index.php">Micheladas</a>
@@ -728,7 +728,7 @@
             <div class="col-xl-2 col-lg-3 col-md-3 col-sm2">
                 <div class="category-border">
                     <div class="category-border_img">
-                        <img src="assets/img/02.png" style="width: 3rem;" alt="Image" />
+                        <img src="assets/img/30.webp" style="width: 8rem;" alt="Image" />
                     </div>
                     <h3 class="category-border_title">
                         <a href="index.php#galeria">Música en vivo</a>
@@ -741,10 +741,10 @@
             <div class="col-xl-2 col-lg-3 col-md-3 col-sm2">
                 <div class="category-border">
                     <div class="category-border_img">
-                        <img src="assets/img/03.png" style="width: 3rem;" alt="Image" />
+                        <img src="assets/img/29.webp" style="width: 8rem;" alt="Image" />
                     </div>
                     <h3 class="category-border_title">
-                        <a href="index.php#galeria">Buen ambiente</a>
+                        <a href="index.php#galeria">Mariscos</a>
                     </h3>
                     <div class="fire">
                         <img src="assets/img/update_2/shape/fire_2.png" alt="shape" />
@@ -754,10 +754,10 @@
             <div class="col-xl-2 col-lg-3 col-md-3 col-sm2">
                 <div class="category-border">
                     <div class="category-border_img">
-                        <img src="assets/img/04.png" style="width: 3rem;" alt="Image" />
+                        <img src="assets/img/31.webp" style="width: 8rem;" alt="Image" />
                     </div>
                     <h3 class="category-border_title">
-                        <a href="index.php">Alitas</a>
+                        <a href="index.php">Drinks and Food</a>
                     </h3>
                     <div class="fire">
                         <img src="assets/img/update_2/shape/fire_2.png" alt="shape" />
@@ -767,7 +767,7 @@
             <div class="col-xl-2 col-lg-3 col-md-3 col-sm2">
                 <div class="category-border">
                     <div class="category-border_img">
-                        <img src="assets/img/05.png" style="width: 3rem;" alt="Image" />
+                        <img src="assets/img/33.webp" style="width: 8rem;" alt="Image" />
                     </div>
                     <h3 class="category-border_title">
                         <a href="index.php">Chamoy artesanal</a>
@@ -1013,10 +1013,10 @@
                 <div class="col-xxl-auto col-md-6">
                     <div class="gallery-card style2 mb-0">
                         <div class="gallery-img">
-                            <img src="assets/img/22.jpg" alt="gallery image" />
+                            <img src="assets/img/34.webp" alt="gallery image" />
                         </div>
                         <div class="gallery-content">
-                            <a href="assets/img/22.jpg" class="icon-btn popup-image"><i class="fas fa-eye"></i></a>
+                            <a href="assets/img/34.webp" class="icon-btn popup-image"><i class="fas fa-eye"></i></a>
                         </div>
                     </div>
                 </div>
@@ -1024,10 +1024,32 @@
                 <div class="col-xxl-auto col-md-6">
                     <div class="gallery-card style2 mb-0">
                         <div class="gallery-img">
-                            <img src="assets/img/23.jpg" alt="gallery image" />
+                            <img src="assets/img/35.webp" alt="gallery image" />
                         </div>
                         <div class="gallery-content">
-                            <a href="assets/img/23.jpg" class="icon-btn popup-image"><i class="fas fa-eye"></i></a>
+                            <a href="assets/img/35.webp" class="icon-btn popup-image"><i class="fas fa-eye"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xxl-auto col-md-6">
+                    <div class="gallery-card style2 mb-0">
+                        <div class="gallery-img">
+                            <img src="assets/img/36.webp" alt="gallery image" />
+                        </div>
+                        <div class="gallery-content">
+                            <a href="assets/img/36.webp" class="icon-btn popup-image"><i class="fas fa-eye"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xxl-auto col-md-6">
+                    <div class="gallery-card style2 mb-0">
+                        <div class="gallery-img">
+                            <img src="assets/img/22.jpg" alt="gallery image" />
+                        </div>
+                        <div class="gallery-content">
+                            <a href="assets/img/22.jpg" class="icon-btn popup-image"><i class="fas fa-eye"></i></a>
                         </div>
                     </div>
                 </div>
@@ -1046,10 +1068,21 @@
                 <div class="col-xxl-auto col-md-6">
                     <div class="gallery-card style2 mb-0">
                         <div class="gallery-img">
-                            <img src="assets/img/25.jpg" alt="gallery image" />
+                            <img src="assets/img/23.jpg" alt="gallery image" />
                         </div>
                         <div class="gallery-content">
-                            <a href="assets/img/25.jpg" class="icon-btn popup-image"><i class="fas fa-eye"></i></a>
+                            <a href="assets/img/23.jpg" class="icon-btn popup-image"><i class="fas fa-eye"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xxl-auto col-md-6">
+                    <div class="gallery-card style2 mb-0">
+                        <div class="gallery-img">
+                            <img src="assets/img/37.webp" alt="gallery image" />
+                        </div>
+                        <div class="gallery-content">
+                            <a href="assets/img/37.webp" class="icon-btn popup-image"><i class="fas fa-eye"></i></a>
                         </div>
                     </div>
                 </div>
